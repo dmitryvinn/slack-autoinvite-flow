@@ -1,4 +1,4 @@
-# Autoinvitation in Slack: No More Manual Invites
+# Self-Invitation in Slack: No More Manual Invites
 
 ## Overview
  
@@ -7,9 +7,9 @@ A community needs a place to interact with each other. [Slack](https://slack.com
 One bottleneck was that an existing member of the Slack chat had to invite people manually.
 Fortunately, projects like [Slackin](https://github.com/rauchg/slackin) came along to streamline this process.
 
-Now, Slack has made changes to their [invitation flow](https://slack.com/help/articles/201330256-Invite-new-members-to-your-workspace), and you can autoinvite people through a shared link.
+Now, Slack has made changes to their [invitation flow](https://slack.com/help/articles/201330256-Invite-new-members-to-your-workspace), and people can self-invite themeselves via a shared link.
 
-This doc describes how you can integrate this autoinvite flow (aka, shared link) into your project's README, or site.
+This doc describes how you can integrate this self-invite flow (aka, shared link) into your project's README, or site.
 
 ## Process
 
